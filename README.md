@@ -17,7 +17,7 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 ![WhatsApp Image 2025-10-27 at 19 23 38_e5dba7dd](https://github.com/user-attachments/assets/40fef65a-1805-4c05-814d-aba2f6555121)
 
 ## PROCEDURE: 
-I. Connect the multimeter at the output of kit..
+1. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
