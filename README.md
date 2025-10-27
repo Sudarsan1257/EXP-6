@@ -28,10 +28,9 @@ I. Connect the multimeter at the output of kit..
 ![WhatsApp Image 2025-10-27 at 19 26 05_1475f8d3](https://github.com/user-attachments/assets/46ee0fd4-15d2-49f1-a09e-762504c581b5)
 
 ## MODEL GRAPH:
-
-## PRECAUTION: 
 ![WhatsApp Image 2025-10-27 at 19 26 19_33d2dc54](https://github.com/user-attachments/assets/864d68b1-9712-4d87-9ad6-e1e10a893e0f)
 
+## PRECAUTION: 
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
