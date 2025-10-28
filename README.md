@@ -29,6 +29,9 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 ## MODEL GRAPH:
 ![WhatsApp Image 2025-10-27 at 19 26 19_33d2dc54](https://github.com/user-attachments/assets/864d68b1-9712-4d87-9ad6-e1e10a893e0f)
+<img width="1303" height="725" alt="Screenshot 2025-10-27 091948" src="https://github.com/user-attachments/assets/d8de05ef-544c-4119-9736-2bbdceccb635" />
+<img width="1483" height="788" alt="Screenshot 2025-10-27 091818" src="https://github.com/user-attachments/assets/8b3fe63e-b7fc-4ccf-b590-fd0a80c7050f" />
+<img width="1314" height="747" alt="Screenshot 2025-10-27 091842" src="https://github.com/user-attachments/assets/dbd078ba-5f2e-446e-bc4a-f7b082afc27e" />
 
 ## PRECAUTION: 
 1. The values on the multimeter should be carefully noted.
